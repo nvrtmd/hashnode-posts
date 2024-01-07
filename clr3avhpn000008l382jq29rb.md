@@ -2,7 +2,7 @@
 title: "React 기초 다지기"
 datePublished: Wed Nov 23 2022 15:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clr3avhpn000008l382jq29rb
-slug: react
+slug: react-basic-study
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704620122734/f8660008-5d2e-48b6-9c13-02715b51319e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1704620218952/52831eb4-61cc-4cad-9bbc-4e3eb219448f.png
 tags: reactjs, basics, study
