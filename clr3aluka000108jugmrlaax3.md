@@ -2,7 +2,7 @@
 title: "[넓고 얕게 배우는 컴퓨터 구조] 정리"
 datePublished: Wed Aug 03 2022 15:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clr3aluka000108jugmrlaax3
-slug: wuekqzocdslpxqsowg67cw7jqw64quioy7to2tqo2escdqtazsobbdioygleumra
+slug: wide-shallow-cs-study
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704619779966/ca43c574-47c6-4d79-b019-d2c2fc152847.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1704619749270/7c7a8500-c88a-4155-8ae5-0a35bd9c500b.png
 tags: computer-science, study
